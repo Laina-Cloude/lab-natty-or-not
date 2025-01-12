@@ -4,8 +4,6 @@
 
 Projeto criado para responder oa desafio proposto no bootcamp DIO "CAIXA - IA Generativa com Microsoft Copilot"
 
-### Template
-
 ## 📒 Descrição
 Criação de Vídeo utilizando um Avatar que imita um humano dando informações sobre as IAs Generativas
 
