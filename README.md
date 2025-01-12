@@ -8,7 +8,7 @@ Projeto criado para responder oa desafio proposto no bootcamp DIO "CAIXA - IA Ge
 Criação de Vídeo utilizando um Avatar que imita um humano dando informações sobre as IAs Generativas
 
 ## 🤖 Tecnologias Utilizadas
-https://elai.io e Gemini
+https://elai.io e Gemini(https://g.co/kgs/e1pFCwm)
 
 ## 🧐 Processo de Criação
 O vídeo foi criado utilizando a Elai.io que é uma ferramenta de IA que transforma texto em conteúdo de vídeo educacional e de marketing com avatares gerados automaticamente, basta escolher um Avatar e fornecer um script que neste caso foi gerado pelo Gemini ai, que ao receber o comando gerou o texto solicitado.
